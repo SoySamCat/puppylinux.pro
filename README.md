@@ -15,8 +15,16 @@ Es especialmente útil para todos aquellos aficionados que tengan sus propias we
       ### Redirect de 3 grupos distintos
       - http://italianpuppy.puppylinux.pro
       - ...
-    - Esas páginas deberían poder encontrarse en otras categorías también
-      - 
+      ### Y esas páginas deberían poder encontrarse dentro de otras categorías también
+      - http://lang.puppylinux.pro
+        Dentro de esa página interna encontraríamos links a cada idioma.
+        - italiano
+          - www.puppylinux.it
+          - www.italianpuppy.org
+          - www.puppylinuxitalia.com
+        - español
+          - www.puppylinux.es
+          - www.mamalibre.com.ar
 - Alias de correo para aquellos grupos que lo soliciten, para tener un nombre que se recuerde fácilmente:
   - usa@puppylinux.pro
   - dominicana@puppylinux.pro
