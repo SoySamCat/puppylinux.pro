@@ -4,7 +4,7 @@ Página web para profesionales de Puppy Linux
 # Utilidad
 Esta página web es útil para todos los usuarios y especialmente para los desarrolladores de Puppy Linux.
 - Información actualizada, con links a páginas actualizadas.
-- Arupa los links a todas las páginas web dedicadas a Puppy Linux en cualquier idioma.
+- Agrupa los links a todas las páginas web dedicadas a Puppy Linux en cualquier idioma.
 - Estructurada como un índice útil para encontrar las respuestas y links a cualquier problema actual o del pasado.
 - Condensa en documentos las respuestas a los problemas conocidos sin deber leer páginas de comentarios y opiniones. 
 - Debe poder ser visitada en navegador w3m. En caso de fallo en el servidor gráfico, o máquinas con bajos recursos, la página será de todavía de utilidad a cualquier usuario desde el terminal.
