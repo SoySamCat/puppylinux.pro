@@ -3,6 +3,23 @@ Página web para profesionales de Puppy Linux
 
 # Utilidad
 Esta página web es útil para todos los usuarios y especialmente para los desarrolladores de Puppy Linux.
+Es especialmente útil para todos aquellos aficionados que tengan sus propias webs y no sean fácilmente "localizables", para darles relevancia en los ámbitos que la tengan (sea un buen foro, una buena wiki, una página de un idioma minoritario, etc)
+- Ofrecer redirects de tercer nivel a los grupos que lo soliciten
+  - Por ejemplo: http://it.puppylinux.pro llevará a la página www.italianpuppy.org
+    - En el caso que haya varios grupos que soliciten el mismo redirect, se crea una página interna que da al usuario la opción de elegir entre varias páginas de grupos similares, y un redirect para cada grupo:
+      ### Página interna con links a los varios grupos
+      Dentro de http://it.puppylinux.pro encontraríamos estos links:
+      - www.puppylinux.it
+      - www.italianpuppy.org
+      - www.puppylinuxitalia.com
+      ### Redirect de 3 grupos distintos
+      - http://italianpuppy.puppylinux.pro
+      - ...
+    - Esas páginas deberían poder encontrarse en otras categorías también
+      - 
+- Alias de correo para aquellos grupos que lo soliciten, para tener un nombre que se recuerde fácilmente:
+  - usa@puppylinux.pro
+  - dominicana@puppylinux.pro
 - Información actualizada, con links a páginas actualizadas.
 - Agrupa los links a todas las páginas web dedicadas a Puppy Linux en cualquier idioma.
 - Estructurada como un índice útil para encontrar las respuestas y links a cualquier problema actual o del pasado.
